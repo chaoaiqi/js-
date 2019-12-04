@@ -5,3 +5,4 @@
 #### [工厂模式](https://github.com/chaoaiqi/js-/blob/master/simpleFactory.js)
 #### [享元模式](https://github.com/chaoaiqi/js-/blob/master/flyweight.js)
 #### [代理模式](https://github.com/chaoaiqi/js-/blob/master/proxy.js)
+#### [观察者模式](https://github.com/chaoaiqi/js-/blob/master/observer.js)
